@@ -1,0 +1,14 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "channelID": "CHANNEL_ID",
+  "serverID": "SERVER_ID",
+  "ownerID": "OWNER_ID",
+  "prefix": "!",
+  "database": {
+    "warns": "./data/warns.json",
+    "bans": "./data/bans.json",
+    "mutes": "./data/mutes.json",
+    "backups": "./data/backups.json",
+    "temproles": "./data/temproles.json"
+  }
+} 
